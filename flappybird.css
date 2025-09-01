@@ -1,0 +1,8 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#board{
+    /* background-color: rgb(43, 180, 222); */
+    background-image: url(bg.png);
+}
